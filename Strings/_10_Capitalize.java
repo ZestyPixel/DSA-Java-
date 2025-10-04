@@ -1,4 +1,4 @@
-public class _40_Capitalize {
+public class _10_Capitalize {
     public static String toUpperCase(String str){
         StringBuilder sb = new StringBuilder("");
         char ch = Character.toUpperCase(str.charAt(0));

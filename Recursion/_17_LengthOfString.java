@@ -1,3 +1,3 @@
-public class _79_LengthOfString {
+public class _17_LengthOfString {
     
 }

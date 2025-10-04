@@ -1,4 +1,4 @@
-public class _35_Palindrom {
+public class _5_Palindrom {
     public static void main(String[] args) {
         String str = "noon noon";
         boolean isPalindrome = true;

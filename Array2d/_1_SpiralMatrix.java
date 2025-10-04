@@ -1,4 +1,4 @@
-public class _54_SpiralMatrix {
+public class _1_SpiralMatrix {
 
     public static void spiralMatrix(int[][] arr) {
         int startRow = 0;

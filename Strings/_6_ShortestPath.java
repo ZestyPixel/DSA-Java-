@@ -1,4 +1,4 @@
-public class _36_ShortestPath {
+public class _6_ShortestPath {
     
     public static float getPath(String path){
         int x = 0, y = 0;

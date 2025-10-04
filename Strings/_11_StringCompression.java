@@ -1,4 +1,4 @@
-public class _41_StringCompression {
+public class _11_StringCompression {
 
     public static String compress(String str){
         StringBuilder nb = new StringBuilder("");

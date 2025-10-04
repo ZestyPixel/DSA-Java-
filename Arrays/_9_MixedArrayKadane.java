@@ -1,4 +1,4 @@
-public class _27_MixedArrayKadane {
+public class _9_MixedArrayKadane {
     public static void main(String[] args) {
         int arr[] = {-2, -3, -4, -1, 2,5,6,-3 };
         int maxSum = Integer.MIN_VALUE;

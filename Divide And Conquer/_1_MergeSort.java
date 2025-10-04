@@ -1,4 +1,4 @@
-public class _82_MergeSort {
+public class _1_MergeSort {
     
     public static void printArr(int [] arr){
         for(int i = 0; i<arr.length; i++){

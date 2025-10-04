@@ -1,4 +1,4 @@
-public class _46_BubbleSort {
+public class _1_BubbleSort {
 
     public static void BubbleSort(int arr[]) {
         for (int turn = 0; turn < arr.length - 1; turn++) {

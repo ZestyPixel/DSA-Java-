@@ -1,4 +1,4 @@
-public class _55_DiagonalSum {
+public class _2_DiagonalSum {
 
     public static void diagonalSum(int[][] arr) {
         int n = arr.length;

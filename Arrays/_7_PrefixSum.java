@@ -1,4 +1,4 @@
-public class _25_PrefixSum {
+public class _7_PrefixSum {
     public static void main(String[] args) {
         int array[] = {1,2,3,4,5};
         int prefix[] = new int [5];

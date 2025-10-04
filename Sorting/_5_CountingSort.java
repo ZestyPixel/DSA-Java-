@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _50_CountingSort {
+public class _5_CountingSort {
     
     public static void countingSort(int arr[]){
         int largest = Integer.MIN_VALUE;

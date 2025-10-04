@@ -1,4 +1,4 @@
-public class _35_CharAt {
+public class _4_CharAt {
     public static void main(String[] args) {
         String str1  = "Umar";
         System.out.println(str1.charAt(0));

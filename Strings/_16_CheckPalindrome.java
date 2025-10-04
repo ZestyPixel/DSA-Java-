@@ -1,4 +1,4 @@
-public class _59_CheckPalindrome {
+public class _16_CheckPalindrome {
     
     public static boolean isPalindrome(String s) {
         int start = 0;

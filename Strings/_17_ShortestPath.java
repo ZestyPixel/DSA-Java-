@@ -1,4 +1,4 @@
-public class _60_ShortestPath {
+public class _17_ShortestPath {
     
     public static int shortestPath(String str){
         if(str.length() == 0) return -1;

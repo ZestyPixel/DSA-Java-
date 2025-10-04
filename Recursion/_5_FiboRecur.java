@@ -1,4 +1,4 @@
-public class _69_FiboRecur {
+public class _5_FiboRecur {
     
     public static int fibo(int n){
         if(n == 1){

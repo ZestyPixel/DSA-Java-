@@ -1,4 +1,4 @@
-public class _23_ArrayPairs {
+public class _5_ArrayPairs {
     public static void pairs(int array[]){
         for(int i = 0; i<array.length; i++){
             int curr = array[i];

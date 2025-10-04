@@ -1,4 +1,4 @@
-public class _71_FirstOccurRecur {
+public class _8_FirstOccurRecur {
 
     public static int occur(int [] arr, int key, int index ){
         if(index == arr.length) return -1;

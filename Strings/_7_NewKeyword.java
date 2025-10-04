@@ -1,4 +1,4 @@
-public class _37_NewKeyword {
+public class _7_NewKeyword {
 
     public static void main(String[] args) {
         // Case 1: String literals (interned)

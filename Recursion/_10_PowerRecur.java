@@ -1,4 +1,4 @@
-public class _72_PowerRecur {
+public class _10_PowerRecur {
 
     public static double myPow(double x, int n) {
         if (n == 0) return 1;

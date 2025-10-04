@@ -1,4 +1,4 @@
-public class _20_ArrayArguments {
+public class _2_ArrayArguments {
     public static void update(int array[]){
         for(int i=0;i<array.length;i++){
             array[i] += 1;

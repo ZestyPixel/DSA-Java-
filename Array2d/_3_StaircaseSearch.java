@@ -1,4 +1,4 @@
-public class _56_StaircaseSearch {
+public class _3_StaircaseSearch {
 
     public static void stairCase(int arr[][], int key) {
         int row = 0;

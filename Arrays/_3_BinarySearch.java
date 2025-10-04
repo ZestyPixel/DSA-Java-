@@ -1,4 +1,4 @@
-public class _21_BinarySearch {
+public class _3_BinarySearch {
     public static void main(String[] args) {
         //Linear search - Go over all elements from one side one by one
         //Binary search (prerequisite - elements must be sorted) 

@@ -1,4 +1,4 @@
-public class _66_RecurIncreasing {
+public class _2_RecurIncreasing {
     
     public static void recur(int n){
         if(n ==0){

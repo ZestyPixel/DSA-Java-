@@ -1,4 +1,4 @@
-public class _70_SortedArrayRecur {
+public class _7_SortedArrayRecur {
     
     public static boolean sorted(int[] arr,int i){
         if(i == arr.length-1) return true;

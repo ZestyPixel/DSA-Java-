@@ -1,4 +1,4 @@
-public class _72_LastOccurance {
+public class _9_LastOccurance {
     
     public static int occur(int[] arr, int key, int i) {
         if (i < 0) return -1;

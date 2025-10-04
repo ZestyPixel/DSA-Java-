@@ -1,4 +1,4 @@
-public class _34_Concatenation {
+public class _3_Concatenation {
     public static void main(String[] args) {
         String str1  = "Umar";
         String str2  = "Mahmood";

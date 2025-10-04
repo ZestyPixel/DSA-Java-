@@ -1,3 +1,3 @@
-public class _80_Substrings {
+public class _18_Substrings {
     
 }

@@ -1,4 +1,4 @@
-public class _73_TilingProb {
+public class _11_TilingProb {
     
     public static int tile(int n){
         if(n == 0 || n == 1){

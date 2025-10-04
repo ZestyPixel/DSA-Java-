@@ -1,4 +1,4 @@
-public class _75_FriendsPairing {
+public class _13_FriendsPairing {
     
     public static int pair(int n){
         if(n == 1 || n == 2){

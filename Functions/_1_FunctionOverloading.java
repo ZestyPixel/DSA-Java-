@@ -1,4 +1,4 @@
-public class _15_FunctionOverloading {
+public class _1_FunctionOverloading {
 
     public static int multiply(int a, int b) {
         return a * b;

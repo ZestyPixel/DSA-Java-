@@ -1,4 +1,4 @@
-public class _31_Stocks {
+public class _13_Stocks {
 
     public static int maxProfit(int[] prices) {
         int buyPrice = Integer.MAX_VALUE;

@@ -1,4 +1,4 @@
-public class _24_Subarrays {
+public class _6_Subarrays {
     public static void printSubarrays(int array[]) {
         int maxSum = Integer.MIN_VALUE;
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _16_PrimeOptimisedApproach {
+public class _2_PrimeOptimisedApproach {
     
     public static boolean isPrime(int n) {
         if (n <= 1) return false;       

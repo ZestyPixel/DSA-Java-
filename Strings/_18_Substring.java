@@ -1,4 +1,4 @@
-public class _61_Substring {
+public class _18_Substring {
 
     public static void substring(String str, int si, int ed){
         for(int i = si; i<=ed; i++){

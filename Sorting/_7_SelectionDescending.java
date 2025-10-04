@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _52_SelectionDescending {
+public class _7_SelectionDescending {
     
     public static void selectionSort(int arr[]){
         for(int i = 0; i<arr.length-1; i++){

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _51_BubbleDescending {
+public class _1_BubbleDescending {
     
     public static void bubbleSort(int arr[]){
         for(int i = 0; i<arr.length-1; i++){

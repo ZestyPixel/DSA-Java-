@@ -1,4 +1,4 @@
-public class _64_StringCompression {
+public class _21_StringCompression {
     public static void main(String[] args) {
         String str = "aaabbc";
         StringBuilder sb = new StringBuilder();

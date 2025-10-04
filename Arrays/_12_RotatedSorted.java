@@ -1,4 +1,4 @@
-public class _30_RotatedSorted {
+public class _12_RotatedSorted {
     
     public static int search(int[] nums, int target) {
         int start = 0, end = nums.length - 1;

@@ -1,4 +1,4 @@
-public class _68_SumRecur {
+public class _4_SumRecur {
     public static int sum(int n){
         if(n==0){
             return 0;

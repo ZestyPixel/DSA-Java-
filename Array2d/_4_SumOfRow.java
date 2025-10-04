@@ -1,4 +1,4 @@
-public class _57_SumOfRow {
+public class _4_SumOfRow {
 
     public static void main(String[] args) {
         int[][] nums = {

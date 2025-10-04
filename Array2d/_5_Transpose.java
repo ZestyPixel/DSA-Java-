@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _58_Transpose {
+public class _5_Transpose {
     
     public static void transpose(int[][] arr) {
         int rows = arr.length;

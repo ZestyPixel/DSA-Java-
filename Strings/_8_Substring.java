@@ -1,4 +1,4 @@
-public class _38_Substring {
+public class _8_Substring {
     
     // Manual substring printing (start to end inclusive)
     public static void printManualSubstring(String str, int start, int end) {

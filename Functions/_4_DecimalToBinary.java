@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _18_DecimalToBinary {
+public class _4_DecimalToBinary {
 
     public static long decimalToBinary(int decimal) {
         long binary = 0;

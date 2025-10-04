@@ -1,4 +1,4 @@
-public class _65_RecurDecreasing {
+public class _1_RecurDecreasing {
     public static void recur(int n){
         System.out.println(n);
         if(n==0) return;

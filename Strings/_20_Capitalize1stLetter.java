@@ -1,4 +1,4 @@
-public class _63_Capitalize1stLetter {
+public class _20_Capitalize1stLetter {
     public static void main(String[] args) {  
     String str = "i am umar";
     String str2 = str.toLowerCase();

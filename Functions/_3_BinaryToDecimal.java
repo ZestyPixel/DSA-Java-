@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _17_BinaryToDecimal {
+public class _3_BinaryToDecimal {
 
     public static int binaryToDecimal(int binary) {
         int decimal = 0;

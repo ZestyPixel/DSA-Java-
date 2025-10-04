@@ -1,4 +1,4 @@
-public class _74_RemoveDups {
+public class _12_RemoveDups {
     
     public static void removeDups(String str, int index, StringBuilder newString, boolean map[]){
         if(index == str.length()) return;

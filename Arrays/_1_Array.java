@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class _19_Array {
+public class _1_Array {
     public static void main(String[] args) {
         int array [] = new int[50];
         // int array2 [] = {1,2,3};

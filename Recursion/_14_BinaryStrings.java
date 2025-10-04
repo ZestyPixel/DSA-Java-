@@ -1,3 +1,3 @@
-public class _76_BinaryStrings {
+public class _14_BinaryStrings {
     
 }

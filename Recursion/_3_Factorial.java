@@ -1,4 +1,4 @@
-public class _67_Factorial {
+public class _3_Factorial {
     
     public static int fact(int n){
         if(n ==0 || n == 1) return 1;

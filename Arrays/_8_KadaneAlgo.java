@@ -1,4 +1,4 @@
-public class _26_KadaneAlgo {
+public class _8_KadaneAlgo {
     public static void main(String[] args) {
         //THE BASIC CONCEPT IS THE MOMENT THE CURRENT SUM BECOMES NEGATIVE, JUST MAKE IT 0 AND PROCEED
 

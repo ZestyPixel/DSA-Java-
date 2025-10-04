@@ -1,4 +1,4 @@
-public class _22_ReverseArrayOptimised {
+public class _4_ReverseArrayOptimised {
     public static void reverse(int array[]){
         int first = 0;
         int last = array.length-1;

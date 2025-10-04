@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Collections;
 
-public class _49_InbuiltSort {
+public class _4_InbuiltSort {
     public static void main(String[] args) {
         int arr [] = {5, 6, 8, 2, 3, 1, 4, 7, 9, 10};
         Arrays.sort(arr);

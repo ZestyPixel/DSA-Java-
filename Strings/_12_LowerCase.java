@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _42_LowerCase {
+public class _12_LowerCase {
     public static void count(String str){
         int count = 0;
         for(int i = 0; i<str.length(); i++ ){
