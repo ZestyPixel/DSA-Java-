@@ -3,7 +3,7 @@ public class _2_QuickSort {
     public static void quickSort(int[] arr, int si, int ei){
         if(si>=ei) return; //Base Case
 
-        int pivotIndex = partition(arr,si,ei); //Toofind the pivot index so that we can partition
+        int pivotIndex = partition(arr,si,ei); //To find the pivot index so that we can partition
 
         quickSort(arr,si,pivotIndex-1);
         quickSort(arr,pivotIndex+1,ei);
