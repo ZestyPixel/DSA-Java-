@@ -21,7 +21,6 @@ public class _3_BinarySearch {
             else{
                 end = mid-1;
             }
-
         }
         if(!found) System.out.println("Element is not in array.");
     }
