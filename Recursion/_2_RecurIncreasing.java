@@ -1,8 +1,7 @@
 public class _2_RecurIncreasing {
     
     public static void recur(int n){
-        if(n ==0){
-            System.out.println(n);
+        if(n == 0){
             return;
         }
         recur(n-1);
